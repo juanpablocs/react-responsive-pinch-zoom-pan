@@ -1,6 +1,6 @@
 {
   "name": "@juanpablocs/react-pinch-zoom",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Enables zooming and panning an image, both mobile and desktop.",
   "main": "dist/PinchZoomPan.js",
   "scripts": {
